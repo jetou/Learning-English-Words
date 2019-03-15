@@ -1,2 +1,2 @@
 # Learning-English-Words
-Daily 30
+Daily 100
